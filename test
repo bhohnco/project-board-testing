@@ -1,0 +1,10 @@
+Test-Driven Development
+4: Application covers all aspects of the application including various flows and covers both happy/sad paths.
+3: Application is well tested but fails to cover some features and only tests for happy paths. Tests use smaller, sample data files as input rather than the large, original data files.
+2: Application makes some use of tests, but the coverage is insufficient given project requirements.
+1: Application does not demonstrate strong use of TDD.
+    User Interface
+4: The application can stand on its own to be used by an instructor without guidance from a developer on the team. The application is fully responsive and the UI does not detract from the UX. In addition, the application has clearly had special consideration around usability on devices.
+3: The application has many strong displays/interactions, but a few holes in lesser-used displays. The application is fully responsive and the UI does not detract from the UX.
+2: The application shows effort in the interface, but the result is not effective. The evaluator has some difficulty using the application when reviewing the features in the users’ needs. Application is not responsive on other devices.
+1: The application is confusing or difficult to use.
